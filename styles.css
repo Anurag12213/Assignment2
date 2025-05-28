@@ -27,12 +27,16 @@
         width: 100%;
         margin: auto;
         height: 70vh;
+        position: relative;
+        
+        overflow: hidden;
       }
       main #shape{
         position: relative;
         height:10rem;
         width: 10rem;
         background-color:#090;
+       
       }
       footer{
         bottom: 0;
